@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Version: A
-=======
-Version: B
->>>>>>> branch-b
+Version: Original
